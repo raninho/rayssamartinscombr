@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rayssa Martins"
+theme = "hallo"
+
+[Author]
+    name = "Rayssa Martins"
+
+[params]
+    [[params.links]]
+        icon = "linkedin-in"
+        title = "Linkedin"
+        url = "https://www.linkedin.com/in/rayssa-medeiros-martins"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:rayssa.raphaely@gmail.com"
+
+    [params.colors]
+        background = "#81c6ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
+
+    greeting = "Greetings!"
